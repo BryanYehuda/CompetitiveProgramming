@@ -1,4 +1,4 @@
-# CompetitiveProgramming
+# Competitive Programming
 
 ## English
 This repository was created to accommodate Competitive Programming codes at several Online Judges that have been accepted, to view the desired file, you can go directly to the folder according to the desired section.
